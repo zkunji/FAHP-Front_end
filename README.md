@@ -14,7 +14,7 @@
 
 1. **组件名**：使用大驼峰命名法，例如：`MyComponent.vue`, `UserSettings.vue`.
 
-2. **变量与函数**：对于变量和函数，使用小驼峰命名法，例如：`firstName`, `lastName`, `maxLength`。`getData()`.
+2. **变量与函数**：对于变量和函数，使用小驼峰命名法，例如：`firstName`, `lastName`, `maxLength`,`getData()`.
 
 3. 变量名应该简洁且具有描述性，能够清楚地表达其用途.
 
